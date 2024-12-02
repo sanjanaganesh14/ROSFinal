@@ -1,8 +1,0 @@
-prefix=/home/milisan/catkin_ws/devel
-
-Name: minitask1
-Description: Description of minitask1
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
